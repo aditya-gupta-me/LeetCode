@@ -6,3 +6,4 @@ Output
 *.exe
 **/main.exe
 *.class
+*.py
